@@ -1,0 +1,80 @@
+
+        .heading {
+            text-align: center;
+            color: black;
+            margin-top: 50px;
+            text-decoration: underline #198754;  
+            color: #198754 ;     
+        }
+        
+       
+        .card{
+            position: relative;
+            height: 330px;
+            overflow: hidden;
+            margin-top: 30px;
+            border-radius: 10px;
+            box-shadow: 5px 5px 20px 5px rgba(107, 97, 97, 0.809);
+        }
+        
+        .card-img{
+            height: 100%;
+            width: 100%;
+        }
+        
+        .card-img img{
+            height: 100%;
+            width: 100%;
+        }
+        .card-content{
+            /* padding: 20px; */
+            height: 100%;
+            width: 100%;
+            position: absolute;
+            top: -330px;
+            background-color: rgba(140, 118, 118, 0.696);
+            transition: all 0.5s ease; 
+            border-radius: 10px;
+            color: white;
+}
+.card-content h1{
+    color: white ;  
+    font-weight: bold;
+}
+
+.card:hover .card-content{
+    top: 0;
+    
+}
+
+p {
+  margin: 0;
+  font-size: 16px;
+}
+       
+.nav-item a:hover{
+    text-decoration: underline;
+}
+
+
+    .feedback1{
+        text-align: center;
+        font-family: serif;
+        /* margin-top: 20px; */
+    }
+    .links h2{
+        font-family: serif;
+        /* margin-top: 20px;         */
+    }
+
+    .contact1{
+        font-family: serif;
+        /* margin-top: 20px; */
+    }
+
+    .carousel-item img{
+        height: 400px;
+        width: 100%;
+        border-radius: 20px;
+        border: #198754 solid 2px;
+    }

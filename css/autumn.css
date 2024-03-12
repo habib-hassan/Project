@@ -1,0 +1,86 @@
+
+.carousel-item img{
+    height: 400px;
+    width: 100%;
+    border-radius: 20px;
+    border: #198754 solid 2px;
+}
+.cl{
+    margin-top: 60px;
+    
+}
+
+.nav-item a :hover{
+    text-decoration: underline;
+}
+
+.card{
+    border: #198754 solid 2px;
+    box-shadow: 5px 5px 20px 5px rgba(107, 97, 97, 0.809);
+    position: relative;
+    overflow: hidden;
+    background-color: black;
+}
+.card-img{
+    height: 100%;
+}
+
+.card-img img{
+    height: 300px;
+    width: 100%;
+}
+
+
+.card-content p{
+    /* height: 100%; */
+    width: 100%;
+    position: absolute;
+    top: -450px;
+    background-color: rgba(140, 118, 118, 0.696);
+    transition: all 0.5s ease; 
+    border-radius: 10px;
+    color: white;
+}
+
+.card:hover .card-content p {
+    top: 0;
+}
+
+.card-content h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 5px;
+    position: relative;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    height: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    margin-top: 5px;
+}
+.head{
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+    text-decoration: underline #198754;  
+    color: #198754 ;   
+}
+
+.feedback1{
+    text-align: center;
+    font-family: serif;
+    /* margin-top: 20px; */
+}
+
+.links h2{
+    font-family: serif;
+    /* margin-top: 20px;  */
+}
+
+.contact1{
+    font-family: serif;
+    /* margin-top: 20px; */
+}
+   

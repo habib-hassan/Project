@@ -1,0 +1,48 @@
+.nav-item a :hover{
+    text-decoration: underline;
+}
+.card-content{
+    text-align: center;
+    color: white;
+}
+
+.card{
+    background-color: black;
+    border-radius: 10px;
+    border: #198754 solid 2px;
+}
+
+.cl{
+    margin-top: 60px;
+   }
+
+   .card-img{
+    height: 400px;
+    width: 100%;
+   }
+
+   .card-img img{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+   }
+
+   .card-button{
+    padding-bottom: 10px;
+   }
+
+.feedback1{
+    text-align: center;
+    font-family: serif;
+}
+
+.links h2{
+    font-family: serif;
+}
+.contact1{
+    font-family: serif;
+}
+
+   
+
+

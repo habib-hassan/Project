@@ -1,0 +1,60 @@
+a button {
+   margin-top: 30px;
+   
+   /* color: black; */
+}
+
+.nav-item a :hover{
+    text-decoration: underline;
+}
+
+.card img{  
+    height: 350px;
+    width: 100%;
+    border: #198754 solid 2px;
+    border-radius: 20px;
+}
+
+i{
+    margin-left: 5px;        
+       }
+
+       .icon :hover{
+        color: #198754;
+        cursor: pointer;
+
+       }
+       .feedback{
+        text-align: center;
+        font-family: serif;
+       }
+
+       label{
+        font-size: 30px;
+       }
+
+       input{
+        height: 35px;
+       }
+
+       .contact{
+        font-family: serif;
+       }
+
+    .feedback1{
+        text-align: center;
+        font-family: serif;
+    }
+    
+    .links h2{
+        font-family: serif;        
+    }
+    .contact1{
+        font-family: serif;
+    }
+    
+    .head{
+        text-align: center;
+        text-decoration: underline #198754;  
+        color: #198754 ;   
+    }
